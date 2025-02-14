@@ -1,0 +1,9 @@
+2025-01-18 23:15:45,791 - INFO - [96m2025-01-18 23:15:45[0m - [94mTên nhân vật 1[0m - [92mThiết lập trình điều khiển Chrome cho tài khoản 1[0m
+2025-01-18 23:15:47,370 - INFO - [96m2025-01-18 23:15:47[0m - [94mTên nhân vật 1[0m - [92mMở trang web: https://cmangag.com/[0m
+2025-01-18 23:15:49,332 - INFO - [96m2025-01-18 23:15:49[0m - [94mTên nhân vật 1[0m - [92mGọi hàm đăng nhập[0m
+2025-01-18 23:16:03,254 - INFO - [96m2025-01-18 23:16:03[0m - [94mTên nhân vật 1[0m - [92mThiết lập trình điều khiển Chrome cho tài khoản 1[0m
+2025-01-18 23:16:04,730 - INFO - [96m2025-01-18 23:16:04[0m - [94mTên nhân vật 1[0m - [92mMở trang web: https://cmangag.com/[0m
+2025-01-18 23:16:08,810 - INFO - [96m2025-01-18 23:16:08[0m - [94mTên nhân vật 1[0m - [92mGọi hàm đăng nhập[0m
+2025-01-18 23:17:49,376 - INFO - [96m2025-01-18 23:17:49[0m - [94mTên nhân vật 1[0m - [92mThiết lập trình điều khiển Chrome cho tài khoản 1[0m
+2025-01-18 23:17:50,842 - INFO - [96m2025-01-18 23:17:50[0m - [94mTên nhân vật 1[0m - [92mMở trang web: https://cmangag.com/[0m
+2025-01-18 23:17:52,943 - INFO - [96m2025-01-18 23:17:52[0m - [94mTên nhân vật 1[0m - [92mGọi hàm đăng nhập[0m

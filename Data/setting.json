@@ -1,0 +1,218 @@
+{
+    "SốAccount": 4,
+    "UrlWeb": "https://cmangax.com/",
+    "Accounts": [
+        {
+            "IdIngame": 1000,
+            "TênTàiKhoản": "Tên nhân vật 1",
+            "IdLogin": "user1",
+            "Password": "password1",
+            "UrlWeb": "https://cmangag.com/",
+            "ThầnMa": {
+                "ThầnMa": false,
+                "GiờThầnMa": "4,8",
+                "GặpKẻThù": 0,
+                "_description": "GặpKẻThù=0 : Để yên, 1: Đấm nó, 2:Chạy là thượng sách"
+            },
+            "CửuGiới": {
+                "CửuGiới": true,
+                "KhuVực": 0,
+                "MaxTàiPhú": 5000,
+                "TàiPhúOut": 5000,
+                "NhặtVàng": true,
+                "GặpShipper": 0,
+                "_description": "GặpShipper=0 : Để yên, 1: Đấm nó, 2:Chạy là thượng sách",
+                "ĐiMaxTàiPhú": false,
+                "GócChạy": 1,
+                "__description": "1 = gocTrenTrai ; 2 = gocTrenPhai; 3 = duoiTrai; 4 phai"
+            },
+            "TôngMônChiến": {
+                "TôngMônChiến": true,
+                "GặpKẻThù": 0,
+                "DiChuyển": false,
+                "KhuVựcHoạtĐộng": 0,
+                "_description": "KhuVựcHoạtĐộng=0 : Ở bên ngoài, 1: Khu Tím, 2:Khu Lục,3: Rìa ngoài và Tím,4:Rìa Tím và Lục"
+            },
+            "ĐọcTruyện": {
+                "ĐọcTruyện": true,
+                "LinkTruyện": "https://cmangax.com/album/vo-luyen-dinh-phong-189/ref/29713"
+            },
+            "ThánhChiến": {
+                "ThánhChiến": false,
+                "RandomPhe": true,
+                "SớVàngBet": 1
+            },
+            "HằngNgày": {
+                "HằngNgày": false,
+                "CốngHiếnTôngMôn": false,
+                "ThầnLongMộ": false,
+                "TầmBảo": false
+            },
+            "Event": {
+                "Event": false,
+                "SinhTửChiến": false,
+                "QuánQuânChiến": false
+            }
+        },
+
+        {
+            "AccountNumber": 1002,
+            "IdIngame": 100001,
+            "TênTàiKhoản": "Tên nhân vật 2",
+            "IdLogin": "user2",
+            "Password": "password2",
+            "UrlWeb": "https://cmangag.com/",
+            "ThầnMa": {
+                "ThầnMa": false,
+                "GiờThầnMa": "4,8",
+                "GặpKẻThù": 0,
+                "_description": "GặpKẻThù=0 : Để yên, 1: Đấm nó, 2:Chạy là thượng sách"
+            },
+            "CửuGiới": {
+                "CửuGiới": true,
+                "KhuVực": 0,
+                "MaxTàiPhú": 5000,
+                "TàiPhúOut": 5000,
+                "NhặtVàng": true,
+                "GặpShipper": 0,
+                "_description": "GặpShipper=0 : Để yên, 1: Đấm nó, 2:Chạy là thượng sách",
+                "ĐiMaxTàiPhú": false,
+                "GócChạy": 1,
+                "__description": "1 = gocTrenTrai ; 2 = gocTrenPhai; 3 = duoiTrai; 4 phai"
+            },
+            "TôngMônChiến": {
+                "TôngMônChiến": true,
+                "GặpKẻThù": 0,
+                "DiChuyển": false,
+                "KhuVựcHoạtĐộng": 0,
+                "_description": "KhuVựcHoạtĐộng=0 : Ở bên ngoài, 1: Khu Tím, 2:Khu Lục,3: Rìa ngoài và Tím,4:Rìa Tím và Lục"
+            },
+            "ĐọcTruyện": {
+                "ĐọcTruyện": true,
+                "LinkTruyện": "https://cmangax.com/album/vo-luyen-dinh-phong-189/ref/29713"
+            },
+            "ThánhChiến": {
+                "ThánhChiến": false,
+                "RandomPhe": true,
+                "SớVàngBet": 1
+            },
+            "HằngNgày": {
+                "HằngNgày": false,
+                "CốngHiếnTôngMôn": false,
+                "ThầnLongMộ": false,
+                "TầmBảo": false
+            },
+            "Event": {
+                "Event": false,
+                "SinhTửChiến": false,
+                "QuánQuânChiến": false
+            }
+        },
+
+        {
+            "AccountNumber": 3,
+            "IdIngame": 100002,
+            "TênTàiKhoản": "Tên nhân vật 3",
+            "IdLogin": "user3",
+            "Password": "password3",
+            "ThầnMa": {
+                "ThầnMa": false,
+                "GiờThầnMa": "4,8",
+                "GặpKẻThù": 0,
+                "_description": "GặpKẻThù=0 : Để yên, 1: Đấm nó, 2:Chạy là thượng sách"
+            },
+            "CửuGiới": {
+                "CửuGiới": true,
+                "KhuVực": 0,
+                "MaxTàiPhú": 5000,
+                "TàiPhúOut": 5000,
+                "NhặtVàng": true,
+                "GặpShipper": 0,
+                "_description": "GặpShipper=0 : Để yên, 1: Đấm nó, 2:Chạy là thượng sách",
+                "ĐiMaxTàiPhú": false,
+                "GócChạy": 1,
+                "__description": "1 = gocTrenTrai ; 2 = gocTrenPhai; 3 = duoiTrai; 4 phai"
+            },
+            "TôngMônChiến": {
+                "TôngMônChiến": true,
+                "GặpKẻThù": 0,
+                "DiChuyển": false,
+                "KhuVựcHoạtĐộng": 0,
+                "_description": "KhuVựcHoạtĐộng=0 : Ở bên ngoài, 1: Khu Tím, 2:Khu Lục,3: Rìa ngoài và Tím,4:Rìa Tím và Lục"
+            },
+            "ĐọcTruyện": {
+                "ĐọcTruyện": true,
+                "LinkTruyện": "https://cmangax.com/album/vo-luyen-dinh-phong-189/ref/29713"
+            },
+            "ThánhChiến": {
+                "ThánhChiến": false,
+                "RandomPhe": true,
+                "SớVàngBet": 1
+            },
+            "HằngNgày": {
+                "HằngNgày": false,
+                "CốngHiếnTôngMôn": false,
+                "ThầnLongMộ": false,
+                "TầmBảo": false
+            },
+            "Event": {
+                "Event": false,
+                "SinhTửChiến": false,
+                "QuánQuânChiến": false
+            }
+        },
+
+        {
+            "AccountNumber": 4,
+            "IdIngame": 100003,
+            "TênTàiKhoản": "Tên nhân vật 4",
+            "IdLogin": "user4",
+            "Password": "password4",
+            "ThầnMa": {
+                "ThầnMa": false,
+                "GiờThầnMa": "4,8",
+                "GặpKẻThù": 0,
+                "_description": "GặpKẻThù=0 : Để yên, 1: Đấm nó, 2:Chạy là thượng sách"
+            },
+            "CửuGiới": {
+                "CửuGiới": true,
+                "KhuVực": 0,
+                "MaxTàiPhú": 5000,
+                "TàiPhúOut": 5000,
+                "NhặtVàng": true,
+                "GặpShipper": 0,
+                "_description": "GặpShipper=0 : Để yên, 1: Đấm nó, 2:Chạy là thượng sách",
+                "ĐiMaxTàiPhú": false,
+                "GócChạy": 1,
+                "__description": "1 = gocTrenTrai ; 2 = gocTrenPhai; 3 = duoiTrai; 4 phai"
+            },
+            "TôngMônChiến": {
+                "TôngMônChiến": true,
+                "GặpKẻThù": 0,
+                "DiChuyển": false,
+                "KhuVựcHoạtĐộng": 0,
+                "_description": "KhuVựcHoạtĐộng=0 : Ở bên ngoài, 1: Khu Tím, 2:Khu Lục,3: Rìa ngoài và Tím,4:Rìa Tím và Lục"
+            },
+            "ĐọcTruyện": {
+                "ĐọcTruyện": true,
+                "LinkTruyện": "https://cmangax.com/album/vo-luyen-dinh-phong-189/ref/29713"
+            },
+            "ThánhChiến": {
+                "ThánhChiến": false,
+                "RandomPhe": true,
+                "SớVàngBet": 1
+            },
+            "HằngNgày": {
+                "HằngNgày": false,
+                "CốngHiếnTôngMôn": false,
+                "ThầnLongMộ": false,
+                "TầmBảo": false
+            },
+            "Event": {
+                "Event": false,
+                "SinhTửChiến": false,
+                "QuánQuânChiến": false
+            }
+        }
+    ]
+}

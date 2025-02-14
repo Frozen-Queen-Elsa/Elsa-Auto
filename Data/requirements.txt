@@ -1,0 +1,5 @@
+selenium
+wxPython
+PyExecJS
+aiohttp
+nest_asyncio

@@ -1,0 +1,20 @@
+Thứ Friday 14-02-2025 11:34:53
+
+
+ INFO - [32m14/02/2025 11-34-53 : Tài Khoản Công Chúa Elsa - Khởi tạo trình duyệt [0m
+ INFO - [32m14/02/2025 11-34-55 : Tài Khoản Công Chúa Elsa - Mở trang đăng nhập[0m
+ INFO - [32m14/02/2025 11-34-59 : Tài Khoản Công Chúa Elsa - Đã click nút đăng nhập[0m
+ INFO - [32m14/02/2025 11-34-59 : Tài Khoản Công Chúa Elsa - Chờ popup hiện và đăng nhập[0m
+ INFO - [32m14/02/2025 11-34-59 : Tài Khoản Công Chúa Elsa - Điền thông tin đăng nhập[0m
+ INFO - [32m14/02/2025 11-35-05 : Tài Khoản Công Chúa Elsa - Đăng nhập thành công[0m
+ INFO - [32m14/02/2025 11-35-10 : Tài Khoản Công Chúa Elsa - Đang lấy token từ https://cmangax.com/user/user_game_dashboard[0m
+ INFO - [32m14/02/2025 11-35-10 : Tài Khoản Công Chúa Elsa - Nội dung <script> đầu tiên: token_user = 0;token_permission = 7;token_security='';my_character=0;[0m
+ INFO - [32m14/02/2025 11-35-10 : Tài Khoản Công Chúa Elsa - Kết quả lấy token: None[0m
+ INFO - [32m14/02/2025 11-35-10 : Tài Khoản Công Chúa Elsa - ChapterToken: None&player=6179[0m
+ INFO - [32m14/02/2025 11-35-10 : Tài Khoản Công Chúa Elsa - Mở trang game dashboard[0m
+ INFO - [32m14/02/2025 11-35-11 : Tài Khoản Công Chúa Elsa - Tìm và click vào Cửu Giới[0m
+ INFO - [32m14/02/2025 11-35-18 : Tài Khoản Công Chúa Elsa - Đang ở trang Cửu Giới và chưa vào map[0m
+ INFO - [32m14/02/2025 11-35-23 : Tài Khoản Công Chúa Elsa - Phản hồi từ API: 
+ <script type="938fe1471ceb5498225b3450-text/javascript">alertify.error(language_text('text_you_are_reviving'))</script><script type="938fe1471ceb5498225b3450-text/javascript">count_down_second = 10447;</script><script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="938fe1471ceb5498225b3450-|49" defer></script>[0m
+ INFO - [33m14/02/2025 11-35-23 : Tài Khoản Công Chúa Elsa - Đang trong thời gian hồi sinh: còn 174.11666666666667 phút để vào Cửu Giới[0m
+ INFO - [33m14/02/2025 11-35-23 : Tài Khoản Công Chúa Elsa - Thời gian tiếp theo có thể vào lại: 2025-02-14 14:29:30[0m

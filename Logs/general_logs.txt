@@ -1,0 +1,20 @@
+2025-01-18 23:14:36,272 - ERROR - [96m2025-01-18 23:14:36[0m - [91mĐã xảy ra lỗi: log_message() got an unexpected keyword argument 'id_login'[0m
+2025-01-18 23:14:36,281 - ERROR - [96m2025-01-18 23:14:36[0m - [91mĐã xảy ra lỗi: log_message() got an unexpected keyword argument 'id_login'[0m
+2025-01-18 23:14:36,283 - INFO - [96m2025-01-18 23:14:36[0m - [92mĐọc thông tin từ file setting.json và lưu vào local storage[0m
+2025-01-18 23:14:36,284 - ERROR - [96m2025-01-18 23:14:36[0m - [91mĐã xảy ra lỗi: log_message() got an unexpected keyword argument 'id_login'[0m
+2025-01-18 23:14:36,286 - ERROR - [96m2025-01-18 23:14:36[0m - [91mSố lượng tài khoản phải lớn hơn 0[0m
+2025-01-18 23:15:45,770 - ERROR - [96m2025-01-18 23:15:45[0m - [91mĐã xảy ra lỗi: log_message() got an unexpected keyword argument 'id_login'[0m
+2025-01-18 23:15:45,780 - ERROR - [96m2025-01-18 23:15:45[0m - [91mĐã xảy ra lỗi: log_message() got an unexpected keyword argument 'id_login'[0m
+2025-01-18 23:15:45,783 - INFO - [96m2025-01-18 23:15:45[0m - [92mĐọc thông tin từ file setting.json và lưu vào local storage[0m
+2025-01-18 23:15:45,784 - ERROR - [96m2025-01-18 23:15:45[0m - [91mĐã xảy ra lỗi: log_message() got an unexpected keyword argument 'id_login'[0m
+2025-01-18 23:15:49,332 - ERROR - [96m2025-01-18 23:15:49[0m - [91mĐã xảy ra lỗi: dang_nhap() takes 1 positional argument but 3 were given[0m
+2025-01-18 23:16:03,241 - ERROR - [96m2025-01-18 23:16:03[0m - [91mĐã xảy ra lỗi: log_message() got an unexpected keyword argument 'id_login'[0m
+2025-01-18 23:16:03,249 - ERROR - [96m2025-01-18 23:16:03[0m - [91mĐã xảy ra lỗi: log_message() got an unexpected keyword argument 'id_login'[0m
+2025-01-18 23:16:03,252 - INFO - [96m2025-01-18 23:16:03[0m - [92mĐọc thông tin từ file setting.json và lưu vào local storage[0m
+2025-01-18 23:16:03,253 - ERROR - [96m2025-01-18 23:16:03[0m - [91mĐã xảy ra lỗi: log_message() got an unexpected keyword argument 'id_login'[0m
+2025-01-18 23:16:08,811 - ERROR - [96m2025-01-18 23:16:08[0m - [91mĐã xảy ra lỗi: dang_nhap() takes 1 positional argument but 3 were given[0m
+2025-01-18 23:17:49,364 - ERROR - [96m2025-01-18 23:17:49[0m - [91mĐã xảy ra lỗi: log_message() got an unexpected keyword argument 'id_login'[0m
+2025-01-18 23:17:49,371 - ERROR - [96m2025-01-18 23:17:49[0m - [91mĐã xảy ra lỗi: log_message() got an unexpected keyword argument 'id_login'[0m
+2025-01-18 23:17:49,374 - INFO - [96m2025-01-18 23:17:49[0m - [92mĐọc thông tin từ file setting.json và lưu vào local storage[0m
+2025-01-18 23:17:49,375 - ERROR - [96m2025-01-18 23:17:49[0m - [91mĐã xảy ra lỗi: log_message() got an unexpected keyword argument 'id_login'[0m
+2025-01-18 23:17:52,945 - ERROR - [96m2025-01-18 23:17:52[0m - [91mĐã xảy ra lỗi: dang_nhap() takes 1 positional argument but 3 were given[0m
